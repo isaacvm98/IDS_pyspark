@@ -47,7 +47,7 @@ count_optimized = df_optimized.count()
 
 #### Query optimization
 ![alt text](image-4.png)
-
+![alt text](image-5.png)
 ## Findings
 
 - New credit score model, VantageScore4 is better than the traditionally used FICO
